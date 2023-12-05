@@ -1,0 +1,10 @@
+YOUTUBE : 
+https://www.youtube.com/watch?v=urrfJgHwIJA
+
+WEBSITES :
+https://docs.python.org/3/library/logging.html
+https://docs.python.org/3/howto/logging.html#logging-basic-tutorial
+https://docs.python.org/3/howto/logging.html#logging-advanced-tutorial
+
+AND CHATGPT TO MAKE WORDS SIMPLE AND CORRECT SOME OF THE PROPOSITIONS THAT KEPT 
+POPING IN MY HEAD DURING THIS STUDY

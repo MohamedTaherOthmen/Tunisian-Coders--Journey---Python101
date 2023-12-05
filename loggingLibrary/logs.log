@@ -1,0 +1,5 @@
+12/05/2023 06:20:29 PM - /home/taher/Python101/logging/Hellologging.py - DEBUG - This is a debug message
+12/05/2023 06:20:29 PM - /home/taher/Python101/logging/Hellologging.py - INFO - This is an info message
+12/05/2023 06:20:29 PM - /home/taher/Python101/logging/Hellologging.py - WARNING - This a warning message
+12/05/2023 06:20:29 PM - /home/taher/Python101/logging/Hellologging.py - ERROR - This is an error message
+12/05/2023 06:20:29 PM - /home/taher/Python101/logging/Hellologging.py - CRITICAL - This is a critical message
