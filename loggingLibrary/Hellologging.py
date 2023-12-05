@@ -16,7 +16,7 @@ if not isinstance(num_lvl, int):
 # log messages that are equal or higher than level 2 (DEBUG) will be prompted
 # We can customize log messages by adding date, time, name, levelname
 logging.basicConfig(
-    filename='/home/taher/Python101/logging/logs.log',
+    filename='/home/taher/Python101/loggingLibrary/Logs/logs.log',
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', 
     datefmt = '%m/%d/%Y %I:%M:%S %p',
     filemode = 'w',
